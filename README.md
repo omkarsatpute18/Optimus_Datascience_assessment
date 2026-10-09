@@ -36,8 +36,8 @@ Solution to the **Øptimus Data Science Predictive Modeling Exercise**.
 ├── voter_turnout_analysis.ipynb   # full analysis, modeling and validation
 ├── voterfile .csv                 # original data (never modified)
 ├── predictions.csv                # final predictions
-├── [technical report]
-└── [presentation]
+├── [Voter Turnout Prediction Report.pdf]
+└── [Voter Turnout Prediction presentation.pdf]
 ```
 
 ---
