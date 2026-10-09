@@ -13,8 +13,8 @@ Solution to the **Øptimus Data Science Predictive Modeling Exercise**.
 | # | Deliverable | File |
 |---|---|---|
 | 1 | Predictions (CSV) | `predictions.csv` |
-| 2 | Technical report (method, rationale, implementation, interpretation) | `[add report file name]` |
-| 3 | Presentation (1 cover + 5 content slides) | `[add presentation file name]` |
+| 2 | Technical report (method, rationale, implementation, interpretation) | `[Voter Turnout Prediction Report.pdf]` |
+| 3 | Presentation (1 cover + 5 content slides) | `[Voter Turnout Prediction Presentation.pdf]` |
 | 4 | Complete code | `voter_turnout_analysis.ipynb` |
 
 ### `predictions.csv` format
